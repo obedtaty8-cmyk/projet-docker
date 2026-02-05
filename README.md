@@ -21,6 +21,8 @@ projet-docker/
 ├── docker-compose.yml
 └── app/
     └── index.php
+└── rapport/
+    └── Rapport_Projet_Docker_DockerCompose.pdf
 ```
 
 ## Technologies utilisées
