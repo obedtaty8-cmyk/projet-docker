@@ -22,10 +22,10 @@ projet-docker/
 └── app/
     └── index.php
 └── rapport/
-    └── Rapport_Projet_Docker_DockerCompose.pdf
-## 📊 Diapositives du projet
+    └── Rapport_Projet_Docker_DockerCompose: https://1drv.ms/p/c/F42021FA3B722966/IQAK0KbpR6JKSKVraMrYzTm-AcMRwqldfXAOO8Ns0379jUc?e=XpdQ5K
+## Diapositives du projet
 
-Les diapositives de présentation du projet sont disponibles ici :https://1drv.ms/p/c/F42021FA3B722966/IQAK0KbpR6JKSKVraMrYzTm-AcMRwqldfXAOO8Ns0379jUc?e=XpdQ5K
+Les diapositives de présentation du projet sont disponibles:https://1drv.ms/p/c/F42021FA3B722966/IQAK0KbpR6JKSKVraMrYzTm-AcMRwqldfXAOO8Ns0379jUc?e=XpdQ5K
 ```
 
 ## Technologies utilisées
