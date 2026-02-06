@@ -23,11 +23,7 @@ projet-docker/
     └── index.php
 └── rapport/
     └── Rapport_Projet_Docker_DockerCompose.pdf
-## 📊 Diapositives du projet
 
-Les diapositives de présentation du projet sont disponibles ici :
-
-📄 [Télécharger les slides du projet](Slides/Presentation_Projet_Docker.pdf)
 ```
 
 ## Technologies utilisées
