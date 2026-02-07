@@ -46,7 +46,7 @@ docker-compose up -d
 Ouvrir un navigateur et aller à :
 
 ```
-http://localhost:8080
+https://github.com/obedtaty8-cmyk/projet-docker/tree/main
 ```
 
 Le navigateur doit afficher :
