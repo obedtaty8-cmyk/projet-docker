@@ -22,10 +22,12 @@ projet-docker/
 └── app/
     └── index.php
 └── rapport/
-    └── Rapport_Projet_Docker_DockerCompose: https://github.com/obedtaty8-cmyk/projet-docker/blob/main/rapport/Rapport_Projet_Docker_DockerCompose.pdf
-## Diapositives du projet
+    └──
+## 📄 Rapport du projet
+- 📄 [Télécharger le rapport PDF](rapport/Rapport_Projet_Docker_DockerCompose.pdf)
 
-Les diapositives de présentation du projet sont disponibles:https://github.com/obedtaty8-cmyk/projet-docker/blob/main/slides/Presentation_Projet_Docker.pdf.pdf
+## 📊 Diapositives de présentation
+- 📄 [Voir les diapositives du projet](slides/Presentation_Projet_Docker.pdf)
 ```
 
 ## Technologies utilisées
